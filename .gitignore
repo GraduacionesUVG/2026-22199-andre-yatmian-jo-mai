@@ -1,0 +1,28 @@
+# Secretos / variables de entorno
+.env
+.env.*
+!.env.example
+Secrets.xcconfig
+
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# CocoaPods
+Pods/
+
+# Node (si aplica)
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporales
+*.tmp
+*.log
